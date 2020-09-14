@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alishahusain.github.io/static/css/main.88d75bdd.chunk.css",
+    "main.js": "/alishahusain.github.io/static/js/main.4db53dd4.chunk.js",
+    "main.js.map": "/alishahusain.github.io/static/js/main.4db53dd4.chunk.js.map",
+    "runtime-main.js": "/alishahusain.github.io/static/js/runtime-main.c2042025.js",
+    "runtime-main.js.map": "/alishahusain.github.io/static/js/runtime-main.c2042025.js.map",
+    "static/css/2.ef260f70.chunk.css": "/alishahusain.github.io/static/css/2.ef260f70.chunk.css",
+    "static/js/2.e55927a6.chunk.js": "/alishahusain.github.io/static/js/2.e55927a6.chunk.js",
+    "static/js/2.e55927a6.chunk.js.map": "/alishahusain.github.io/static/js/2.e55927a6.chunk.js.map",
+    "index.html": "/alishahusain.github.io/index.html",
+    "precache-manifest.14e03a8fd6c98e85372cacf62e95007e.js": "/alishahusain.github.io/precache-manifest.14e03a8fd6c98e85372cacf62e95007e.js",
+    "service-worker.js": "/alishahusain.github.io/service-worker.js",
+    "static/css/2.ef260f70.chunk.css.map": "/alishahusain.github.io/static/css/2.ef260f70.chunk.css.map",
+    "static/css/main.88d75bdd.chunk.css.map": "/alishahusain.github.io/static/css/main.88d75bdd.chunk.css.map",
+    "static/js/2.e55927a6.chunk.js.LICENSE.txt": "/alishahusain.github.io/static/js/2.e55927a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2042025.js",
+    "static/css/2.ef260f70.chunk.css",
+    "static/js/2.e55927a6.chunk.js",
+    "static/css/main.88d75bdd.chunk.css",
+    "static/js/main.4db53dd4.chunk.js"
+  ]
+}
