@@ -20,12 +20,12 @@ class LandingPage extends Component {
                             <p>Python   |   Java   |   SQL   |   R   |   HTML/CSS   |   JavaScript   | React</p>
                             <div className="social-links">
                             {/* LinkedIn*/}
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                            <a href="https://www.linkedin.com/in/alisha-husain/" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-linkedin-square" aria-hidden="true" />
                             </a>
 
                             {/* GitHub*/}
-                            <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                            <a href="https://github.com/alishahusain" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-github-square" aria-hidden="true" />
                             </a>
                             </div>

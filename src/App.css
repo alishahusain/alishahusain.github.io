@@ -53,6 +53,7 @@ position: fixed;
 left: 0;
 width: 100%;
 height: 100%;
+overflow: auto /* for scrollbox */
 
 
 }
@@ -89,16 +90,18 @@ color: white;
   background-color: black;
   opacity: .8;
   width: 75%;
+  height: 50%; /* added */
   margin: auto;
-  border-radius: 10px;
+  border-radius: 20px;
 
 }
 
 .banner-text h1 {
-  font-size: 66px;
+  font-size: 6vw; /* adjustable font size, prev 66px */
   font-weight: bold;
   color: white;
   text-align: center;
+  width: auto;
 }
 
 
@@ -135,7 +138,9 @@ color: white;
   display: flex;
   justify-content: space-between;
   width: 10%;
+  height: 20%; /* added*/
   margin: auto;
+  justify-content: center;
 }
 
 .social-links i {
