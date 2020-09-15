@@ -6,11 +6,12 @@ import Button from 'react-bootstrap/Button';
 import { Form, FormControl } from 'react-bootstrap';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
+import { HashRouter, Route} from "react-router-dom";
 
 function App() {
   return (
     <div>
-    
+   
       <Navbar bg="" variant="dark" expand="lg">
   <Navbar.Brand href="/">Alisha Husain</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -18,6 +19,7 @@ function App() {
     <Nav className="mr-auto">
       <Nav.Link href="/">Home</Nav.Link>
       <Nav.Link href="/aboutme">About Me</Nav.Link>
+      <Nav.Link href="/contact">Contact</Nav.Link>
       <Nav.Link href="/projects">Projects</Nav.Link>
     </Nav>
 
