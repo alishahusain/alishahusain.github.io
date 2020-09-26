@@ -26,6 +26,7 @@ class Projects extends Component {
                   <CardActions border>
                     <a href="https://github.com/alishahusain/smed_reu_ipnyb">
                     <Button colored>GitHub</Button>
+                    </a>
                   </CardActions>
                   <CardMenu style={{color: '#fff'}}>
                     <IconButton name="share" />
