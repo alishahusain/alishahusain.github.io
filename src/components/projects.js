@@ -24,6 +24,7 @@ class Projects extends Component {
                     This project involved working with the MAPPER algorithm, which helps visualize high dimensional datasets using topological methods. Here you will find code that processes Census data for input into MAPPER, and running and analyzing MAPPER results. 
                   </CardText>
                   <CardActions border>
+                    <a href="https://github.com/alishahusain/smed_reu_ipnyb"/>
                     <Button colored>GitHub</Button>
                   </CardActions>
                   <CardMenu style={{color: '#fff'}}>
