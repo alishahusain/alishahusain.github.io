@@ -80,7 +80,9 @@ class Projects extends Component {
                   This website was created using JavaScript and ReactJS.
                 </CardText>
                 <CardActions border>
+                  <a href="https://github.com/alishahusain/alishahusain.github.io">
                   <Button colored>GitHub</Button>
+                  </a>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share" />
